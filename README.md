@@ -1,2 +1,3 @@
 # GDV_Peggle_Game
-GDV Peggle game Erwin Henraat
+
+Welcome to my peggle game!
