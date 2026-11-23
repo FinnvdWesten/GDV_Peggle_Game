@@ -18,3 +18,27 @@ De bonussen en flitsende lichten
 
 ### Wat zou je kunnen gebruikent voor je eigen game?
 De zij muren zodat je balletje niet weg vliegt anders voelt het heel oneerlijk voor de speler
+
+
+## Het idee:
+
+### Naam
+
+Garbage peggle game
+
+### Beschrijving
+
+De speler scoort punten door een afvalzak te schieten tegen allemaal appels
+
+### Gameplaykern
+
+Bal = Afvalzak
+Bumps = Appels
+Score = Euro's
+Doel = 1 miljoen punten krijgen
+
+### Stijl en sfeer
+
+
+
+### Level schets
